@@ -1,5 +1,7 @@
 # 커넥티드 플랫폼 이론과 실제 Term Project
 
+[![connected](img\connected.jpg)](https://cs.yonsei.ac.kr:59290/bbs/board.php?bo_table=sub5_1&wr_id=208&sfl=wr_subject&stx=%EC%BB%A4%EB%84%A5%ED%8B%B0%EB%93%9C&sop=and)
+
 ## Role
 - 김이주: 프론트, 백
 - 이주연: 백
