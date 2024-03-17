@@ -1,6 +1,6 @@
 # 커넥티드 플랫폼 이론과 실제 Term Project
 
-[![connected](img\connected.jpg)](img/connected.jpg)
+![connected](img\connected.jpg)
 
 ## Role
 - 김이주: 프론트, 백
